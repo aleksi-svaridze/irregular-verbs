@@ -1,0 +1,707 @@
+[
+    {
+        "verb": "arise",
+        "past_tense": "arose",
+        "past_participle": "arisen"
+    },
+    {
+        "verb": "awake",
+        "past_tense": "awoke",
+        "past_participle": "awoke"
+    },
+    {
+        "verb": "be",
+        "past_tense": "was, were",
+        "past_participle": "been"
+    },
+    {
+        "verb": "bear",
+        "past_tense": "bore",
+        "past_participle": "borne"
+    },
+    {
+        "verb": "beat",
+        "past_tense": "beat",
+        "past_participle": "beaten"
+    },
+    {
+        "verb": "become",
+        "past_tense": "became",
+        "past_participle": "become"
+    },
+    {
+        "verb": "begin",
+        "past_tense": "began",
+        "past_participle": "begun"
+    },
+    {
+        "verb": "bend",
+        "past_tense": "bent",
+        "past_participle": "bent"
+    },
+    {
+        "verb": "bet",
+        "past_tense": "bet",
+        "past_participle": "bet"
+    },
+    {
+        "verb": "bind",
+        "past_tense": "bound",
+        "past_participle": "bound"
+    },
+    {
+        "verb": "bite",
+        "past_tense": "bit",
+        "past_participle": "bitten"
+    },
+    {
+        "verb": "bleed",
+        "past_tense": "bled",
+        "past_participle": "bled"
+    },
+    {
+        "verb": "blow",
+        "past_tense": "blew",
+        "past_participle": "blown"
+    },
+    {
+        "verb": "break",
+        "past_tense": "broke",
+        "past_participle": "broken"
+    },
+    {
+        "verb": "bring",
+        "past_tense": "brought",
+        "past_participle": "brought"
+    },
+    {
+        "verb": "build",
+        "past_tense": "built",
+        "past_participle": "built"
+    },
+    {
+        "verb": "burst",
+        "past_tense": "burst",
+        "past_participle": "burst"
+    },
+    {
+        "verb": "buy",
+        "past_tense": "bought",
+        "past_participle": "bought"
+    },
+    {
+        "verb": "catch",
+        "past_tense": "caught",
+        "past_participle": "caught"
+    },
+    {
+        "verb": "choose",
+        "past_tense": "chose",
+        "past_participle": "chosen"
+    },
+    {
+        "verb": "come",
+        "past_tense": "came",
+        "past_participle": "come"
+    },
+    {
+        "verb": "cost",
+        "past_tense": "cost",
+        "past_participle": "cost"
+    },
+    {
+        "verb": "creep",
+        "past_tense": "crept",
+        "past_participle": "crept"
+    },
+    {
+        "verb": "cut",
+        "past_tense": "cut",
+        "past_participle": "cut"
+    },
+    {
+        "verb": "deal",
+        "past_tense": "dealt",
+        "past_participle": "dealt"
+    },
+    {
+        "verb": "dig",
+        "past_tense": "dug",
+        "past_participle": "dug"
+    },
+    {
+        "verb": "dive",
+        "past_tense": "dived, dove",
+        "past_participle": "dive"
+    },
+    {
+        "verb": "do",
+        "past_tense": "did",
+        "past_participle": "done"
+    },
+    {
+        "verb": "draw",
+        "past_tense": "drew",
+        "past_participle": "drawn"
+    },
+    {
+        "verb": "dream",
+        "past_tense": "dreamed, dreamt",
+        "past_participle": "dreamed, dreamt"
+    },
+    {
+        "verb": "drink",
+        "past_tense": "drank",
+        "past_participle": "drunk"
+    },
+    {
+        "verb": "drive",
+        "past_tense": "drove",
+        "past_participle": "driven"
+    },
+    {
+        "verb": "eat",
+        "past_tense": "ate",
+        "past_participle": "eaten"
+    },
+    {
+        "verb": "fall",
+        "past_tense": "fell",
+        "past_participle": "fallen"
+    },
+    {
+        "verb": "feed",
+        "past_tense": "fed",
+        "past_participle": "fed"
+    },
+    {
+        "verb": "feel",
+        "past_tense": "felt",
+        "past_participle": "felt"
+    },
+    {
+        "verb": "fight",
+        "past_tense": "fought",
+        "past_participle": "fought"
+    },
+    {
+        "verb": "find",
+        "past_tense": "found",
+        "past_participle": "found"
+    },
+    {
+        "verb": "fit",
+        "past_tense": "fit, fitted",
+        "past_participle": "fit, fitted"
+    },
+    {
+        "verb": "flee",
+        "past_tense": "fled",
+        "past_participle": "fled"
+    },
+    {
+        "verb": "fling",
+        "past_tense": "flung",
+        "past_participle": "flung"
+    },
+    {
+        "verb": "fly",
+        "past_tense": "flew",
+        "past_participle": "flown"
+    },
+    {
+        "verb": "forbid",
+        "past_tense": "forbade",
+        "past_participle": "forbidden"
+    },
+    {
+        "verb": "forget",
+        "past_tense": "forgot",
+        "past_participle": "forgotten, forgot"
+    },
+    {
+        "verb": "forgive",
+        "past_tense": "forgave",
+        "past_participle": "forgiven"
+    },
+    {
+        "verb": "freeze",
+        "past_tense": "froze",
+        "past_participle": "frozen"
+    },
+    {
+        "verb": "get",
+        "past_tense": "got",
+        "past_participle": "got, gotten"
+    },
+    {
+        "verb": "give",
+        "past_tense": "gave",
+        "past_participle": "given"
+    },
+    {
+        "verb": "go",
+        "past_tense": "went",
+        "past_participle": "gone"
+    },
+    {
+        "verb": "grow",
+        "past_tense": "grew",
+        "past_participle": "grown"
+    },
+    {
+        "verb": "hang (to put to death)",
+        "past_tense": "hanged",
+        "past_participle": "hanged"
+    },
+    {
+        "verb": "hang (a picture)",
+        "past_tense": "hung",
+        "past_participle": "hung"
+    },
+    {
+        "verb": "have",
+        "past_tense": "had",
+        "past_participle": "had"
+    },
+    {
+        "verb": "hear",
+        "past_tense": "heard",
+        "past_participle": "heard"
+    },
+    {
+        "verb": "hide",
+        "past_tense": "hid",
+        "past_participle": "hidden"
+    },
+    {
+        "verb": "hit",
+        "past_tense": "hit",
+        "past_participle": "hit"
+    },
+    {
+        "verb": "hold",
+        "past_tense": "held",
+        "past_participle": "held"
+    },
+    {
+        "verb": "hurt",
+        "past_tense": "hurt",
+        "past_participle": "hurt"
+    },
+    {
+        "verb": "keep",
+        "past_tense": "kept",
+        "past_participle": "kept"
+    },
+    {
+        "verb": "kneel",
+        "past_tense": "kneeled, knelt",
+        "past_participle": "kneeled, knelt"
+    },
+    {
+        "verb": "knit",
+        "past_tense": "knitted",
+        "past_participle": "knitted"
+    },
+    {
+        "verb": "know",
+        "past_tense": "knew",
+        "past_participle": "known"
+    },
+    {
+        "verb": "lay",
+        "past_tense": "laid",
+        "past_participle": "laid"
+    },
+    {
+        "verb": "lead",
+        "past_tense": "led",
+        "past_participle": "led"
+    },
+    {
+        "verb": "leave",
+        "past_tense": "left",
+        "past_participle": "left"
+    },
+    {
+        "verb": "lend",
+        "past_tense": "lent",
+        "past_participle": "lent"
+    },
+    {
+        "verb": "let",
+        "past_tense": "let",
+        "past_participle": "let"
+    },
+    {
+        "verb": "lie (recline)",
+        "past_tense": "lay",
+        "past_participle": "lain"
+    },
+    {
+        "verb": "lie (tell a falsehood)",
+        "past_tense": "lied",
+        "past_participle": "lied"
+    },
+    {
+        "verb": "light",
+        "past_tense": "lighted, lit",
+        "past_participle": "lighted, lit"
+    },
+    {
+        "verb": "lose",
+        "past_tense": "lost",
+        "past_participle": "lost"
+    },
+    {
+        "verb": "make",
+        "past_tense": "made",
+        "past_participle": "made"
+    },
+    {
+        "verb": "mean",
+        "past_tense": "meant",
+        "past_participle": "meant"
+    },
+    {
+        "verb": "meet",
+        "past_tense": "met",
+        "past_participle": "met"
+    },
+    {
+        "verb": "pay",
+        "past_tense": "paid",
+        "past_participle": "paid"
+    },
+    {
+        "verb": "plead",
+        "past_tense": "pleaded",
+        "past_participle": "pled"
+    },
+    {
+        "verb": "prove",
+        "past_tense": "proved",
+        "past_participle": "proved, proven"
+    },
+    {
+        "verb": "put",
+        "past_tense": "put",
+        "past_participle": "put"
+    },
+    {
+        "verb": "quit",
+        "past_tense": "quit",
+        "past_participle": "quit"
+    },
+    {
+        "verb": "read",
+        "past_tense": "read",
+        "past_participle": "read"
+    },
+    {
+        "verb": "ride",
+        "past_tense": "rode",
+        "past_participle": "ridden"
+    },
+    {
+        "verb": "ring",
+        "past_tense": "rang",
+        "past_participle": "rung"
+    },
+    {
+        "verb": "rise",
+        "past_tense": "rose",
+        "past_participle": "risen"
+    },
+    {
+        "verb": "run",
+        "past_tense": "run",
+        "past_participle": "run"
+    },
+    {
+        "verb": "say",
+        "past_tense": "said",
+        "past_participle": "said"
+    },
+    {
+        "verb": "see",
+        "past_tense": "saw",
+        "past_participle": "seen"
+    },
+    {
+        "verb": "seek",
+        "past_tense": "sought",
+        "past_participle": "sought"
+    },
+    {
+        "verb": "sell",
+        "past_tense": "sold",
+        "past_participle": "sold"
+    },
+    {
+        "verb": "send",
+        "past_tense": "sent",
+        "past_participle": "sent"
+    },
+    {
+        "verb": "set",
+        "past_tense": "set",
+        "past_participle": "set"
+    },
+    {
+        "verb": "sew",
+        "past_tense": "sewed",
+        "past_participle": "sewed, sewn"
+    },
+    {
+        "verb": "shake",
+        "past_tense": "shook",
+        "past_participle": "shaken"
+    },
+    {
+        "verb": "shine (glow)",
+        "past_tense": "shone",
+        "past_participle": "shone"
+    },
+    {
+        "verb": "shine (rub)",
+        "past_tense": "shined",
+        "past_participle": "shined"
+    },
+    {
+        "verb": "shoot",
+        "past_tense": "shot",
+        "past_participle": "shot"
+    },
+    {
+        "verb": "show",
+        "past_tense": "showed",
+        "past_participle": "showed, shown"
+    },
+    {
+        "verb": "shrink",
+        "past_tense": "shrank",
+        "past_participle": "shrunk"
+    },
+    {
+        "verb": "shut",
+        "past_tense": "shut",
+        "past_participle": "shut"
+    },
+    {
+        "verb": "sing",
+        "past_tense": "sang",
+        "past_participle": "sung"
+    },
+    {
+        "verb": "sink",
+        "past_tense": "sank",
+        "past_participle": "sunk"
+    },
+    {
+        "verb": "sit",
+        "past_tense": "sat",
+        "past_participle": "sat"
+    },
+    {
+        "verb": "slay",
+        "past_tense": "slew",
+        "past_participle": "slain"
+    },
+    {
+        "verb": "sleep",
+        "past_tense": "slept",
+        "past_participle": "slept"
+    },
+    {
+        "verb": "slide",
+        "past_tense": "slid",
+        "past_participle": "slid"
+    },
+    {
+        "verb": "slit",
+        "past_tense": "slit",
+        "past_participle": "slit"
+    },
+    {
+        "verb": "speak",
+        "past_tense": "spoke",
+        "past_participle": "spoken"
+    },
+    {
+        "verb": "spend",
+        "past_tense": "spent",
+        "past_participle": "spent"
+    },
+    {
+        "verb": "spin",
+        "past_tense": "spun",
+        "past_participle": "spun"
+    },
+    {
+        "verb": "spit",
+        "past_tense": "spit, spat",
+        "past_participle": "spit, spat"
+    },
+    {
+        "verb": "split",
+        "past_tense": "split",
+        "past_participle": "split"
+    },
+    {
+        "verb": "spread",
+        "past_tense": "spread",
+        "past_participle": "spread"
+    },
+    {
+        "verb": "spring",
+        "past_tense": "sprang",
+        "past_participle": "sprung"
+    },
+    {
+        "verb": "stand",
+        "past_tense": "stood",
+        "past_participle": "stood"
+    },
+    {
+        "verb": "steal",
+        "past_tense": "stole",
+        "past_participle": "stolen"
+    },
+    {
+        "verb": "stick",
+        "past_tense": "stuck",
+        "past_participle": "stuck"
+    },
+    {
+        "verb": "sting",
+        "past_tense": "stung",
+        "past_participle": "stung"
+    },
+    {
+        "verb": "stink",
+        "past_tense": "stank",
+        "past_participle": "stunk"
+    },
+    {
+        "verb": "stride",
+        "past_tense": "strode",
+        "past_participle": "stridden"
+    },
+    {
+        "verb": "strike (hit)",
+        "past_tense": "struck",
+        "past_participle": "struck"
+    },
+    {
+        "verb": "string",
+        "past_tense": "strung",
+        "past_participle": "strung"
+    },
+    {
+        "verb": "swear",
+        "past_tense": "swore",
+        "past_participle": "sworn"
+    },
+    {
+        "verb": "sweep",
+        "past_tense": "swept",
+        "past_participle": "swept"
+    },
+    {
+        "verb": "swell",
+        "past_tense": "swelled",
+        "past_participle": "swollen"
+    },
+    {
+        "verb": "swim",
+        "past_tense": "swam",
+        "past_participle": "swum"
+    },
+    {
+        "verb": "swing",
+        "past_tense": "swing",
+        "past_participle": "swung"
+    },
+    {
+        "verb": "take",
+        "past_tense": "took",
+        "past_participle": "taken"
+    },
+    {
+        "verb": "teach",
+        "past_tense": "taught",
+        "past_participle": "taught"
+    },
+    {
+        "verb": "tear",
+        "past_tense": "tore",
+        "past_participle": "torn"
+    },
+    {
+        "verb": "tell",
+        "past_tense": "told",
+        "past_participle": "told"
+    },
+    {
+        "verb": "think",
+        "past_tense": "thought",
+        "past_participle": "thought"
+    },
+    {
+        "verb": "throw",
+        "past_tense": "threw",
+        "past_participle": "thrown"
+    },
+    {
+        "verb": "understand",
+        "past_tense": "understood",
+        "past_participle": "understood"
+    },
+    {
+        "verb": "wake up",
+        "past_tense": "woke up",
+        "past_participle": "waked up, woken up"
+    },
+    {
+        "verb": "wear",
+        "past_tense": "wore",
+        "past_participle": "worn"
+    },
+    {
+        "verb": "wed",
+        "past_tense": "wed",
+        "past_participle": "wed"
+    },
+    {
+        "verb": "weep",
+        "past_tense": "wept",
+        "past_participle": "wept"
+    },
+    {
+        "verb": "welcome",
+        "past_tense": "welcomed",
+        "past_participle": "welcomed"
+    },
+    {
+        "verb": "wet",
+        "past_tense": "wet",
+        "past_participle": "wet"
+    },
+    {
+        "verb": "win",
+        "past_tense": "won",
+        "past_participle": "won"
+    },
+    {
+        "verb": "wring",
+        "past_tense": "wrung",
+        "past_participle": "wrung"
+    },
+    {
+        "verb": "write",
+        "past_tense": "wrote",
+        "past_participle": "written"
+    }
+]
