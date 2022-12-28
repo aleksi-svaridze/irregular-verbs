@@ -5,10 +5,11 @@ const form = document.querySelector('form');
 
 // URLs
 const localDataUrl = 'http://127.0.0.1:5501/assets/data/verbs.json';
+const domain = 'https://geo-irregular-verbs.netlify.app/assets/data/verbs.json';
 
 // Search data
 const searchVerb = async searchText => {
-    const response = await fetch(localDataUrl);
+    const response = await fetch(domain);
     const words = await response.json();
 
     let matches = words.filter(word => {
