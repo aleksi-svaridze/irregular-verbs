@@ -34,14 +34,14 @@ input:focus {
 
 .output-searched-word {
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 .word-box {
     width: 480px;
-    margin: 0 20px;
+    margin: 0 20px 20px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 20px;
     border-radius: 5px;
 }
 .word-box__heading {
@@ -82,10 +82,9 @@ input:focus {
     }
     .search-input {
         font-size: 12px;
-        margin: 0 15px;
      }
      .word-box {
-        margin: 0 15px;
+        margin: 0 15px 20px;
     }
      .word-box__content--desc {
         font-size: 14px;
@@ -96,10 +95,10 @@ input:focus {
 }
 @media screen and (max-width: 500px) {
     .search-input {
-        margin: 0 10px;
+        width: 95%;
     }
     .word-box {
-        margin: 0 10px;
+        width: 95%;
     }
     h1 {
        font-size: 18px;
