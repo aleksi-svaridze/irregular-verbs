@@ -28,14 +28,17 @@ input:focus {
    border-radius: 20px;
    border: none;
    padding: 0 0 0 20px;
+   font-size: 14px;
+   margin: 0 20px;
 }
 
 .output-searched-word {
-    
+    display: flex;
+    justify-content: center;
 }
 .word-box {
     width: 480px;
-    margin: 0 auto;
+    margin: 0 20px;
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
@@ -72,4 +75,39 @@ input:focus {
 .word-box__content section {
     width: 33.33334%;
     padding: 0 0 0 10px;
+}
+@media screen and (max-width: 768px) {
+    h1 {
+       font-size: 24px;
+    }
+    .search-input {
+        font-size: 12px;
+        margin: 0 15px;
+     }
+     .word-box {
+        margin: 0 15px;
+    }
+     .word-box__content--desc {
+        font-size: 14px;
+    }
+    .word-box__content--cases {
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 500px) {
+    .search-input {
+        margin: 0 10px;
+    }
+    .word-box {
+        margin: 0 10px;
+    }
+    h1 {
+       font-size: 18px;
+    }
+    .word-box__content--desc {
+        font-size: 12px;
+    }
+    .word-box__content--cases {
+        font-size: 14px;
+    }
 }
