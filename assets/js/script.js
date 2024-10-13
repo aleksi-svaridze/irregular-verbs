@@ -1,38 +1,39 @@
 // Variables
-const searchInput = document.querySelector('#searchInput');
-const outputSearched = document.querySelector('.output-searched-word');
-const form = document.querySelector('form');
+const searchInput = document.querySelector("#searchInput");
+const outputSearched = document.querySelector(".output-searched-word");
+const form = document.querySelector("form");
 
 // URLs
-const localDataUrl = 'http://127.0.0.1:5501/assets/data/verbs.json';
-const domain = 'https://geo-irregular-verbs.netlify.app/assets/data/verbs.json';
+const localDataUrl = "http://127.0.0.1:5501/assets/data/verbs.json";
+const domain = "https://verbs-js.netlify.app/assets/data/verbs.json";
 
 // Search data
-const searchVerb = async searchText => {
-    const response = await fetch(domain);
-    const words = await response.json();
+const searchVerb = async (searchText) => {
+  const response = await fetch(domain);
+  const words = await response.json();
 
-    let matches = words.filter(word => {
-        return word.verb.toLowerCase().indexOf(searchText) > -1;
-        // return word.verb.toLowerCase().includes(searchText);
-    });
+  let matches = words.filter((word) => {
+    return word.verb.toLowerCase().indexOf(searchText) > -1;
+    // return word.verb.toLowerCase().includes(searchText);
+  });
 
-    if(searchText === 0 || searchText === ' ') {
-        matches = [];
-    }
+  if (searchText === 0 || searchText === " ") {
+    matches = [];
+  }
 
-    outputSearchedWord(matches);
+  outputSearchedWord(matches);
 };
 
-const outputSearchedWord = matches => {
+const outputSearchedWord = (matches) => {
+  console.log(matches.length);
 
-    console.log(matches.length);
-     
-    let html = ``;
+  let html = ``;
 
-    if(matches.length > 0) {
-        html = matches.map(match => (
-            `<section class="word-box">
+  if (matches.length > 0) {
+    html = matches
+      .map(
+        (match) =>
+          `<section class="word-box">
                 <section class="word-box__content word-box__content--desc">
                     <section>Verb</section>
                     <section>Past Tense</section>
@@ -44,16 +45,17 @@ const outputSearchedWord = matches => {
                     <section>${match.past_participle}</section>
                 </section>
             </section>`
-        )).join('');
+      )
+      .join("");
 
-        outputSearched.innerHTML = html;
-    }
+    outputSearched.innerHTML = html;
+  }
 };
 
-searchInput.addEventListener('input', () => searchVerb(searchInput.value));
+searchInput.addEventListener("input", () => searchVerb(searchInput.value));
 
+// TODO:
 
+// 1. when input is empty ==> do not wont to render anything
 
-    // 1. when input is empty ==> do not wont to render anything
-
-    // 2. when searching word ==> do not wont to empty space has affected
+// 2. when searching word ==> do not wont to empty space has affected
